@@ -1,0 +1,122 @@
+.btn1:hover{
+    background-color: #FBBD04;
+    color: #00B4CF;
+}
+.btn1{
+    width:12vmax;
+    height:4vmax;
+    border-radius:15px;
+    background-color:white;
+    font-size:20px;
+    font-family:gilroy SemiBold;
+    color:#FFC305;
+    border:none;
+    cursor:pointer
+}
+
+.btn2:hover{
+    background-color: #FBBD04;
+    color: #00B4CF;
+}
+
+.btn2{
+    width:12vmax;
+    height:4vmax;
+    border-radius:15px;
+    background-color:white;
+    font-size:20px;
+    font-family:gilroy SemiBold;
+    color:#FFC305;
+    border:none;
+    margin-left: 10px;
+    cursor:pointer
+}
+
+
+.btn3:hover{
+    background-color: white;
+    color: #FFC305;
+    font-size: 25px;
+}
+
+.btn3{
+    width:10vmax;
+    height:4vmax;
+    border-radius:15px;
+    background-color:#FFC305;
+    font-size:20px;
+    font-family:gilroy SemiBold;
+    color:white;
+    border:none;
+    cursor:pointer;
+    margin-top: 25px;
+}
+
+
+.signoutbtn{
+    width:30%;
+    border:none;
+    background-color:#FFC003;
+    display: flex;
+    font-family: gilroy SemiBold;
+    color: white;
+    padding: 2px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.signoutbtn:hover{
+    color: #FFC003;
+    background-color: white;
+}
+
+.viewbtn{
+    width: 100%;
+    height:100%;
+    padding: 1vmax;
+    font-size: 15px;
+    font-family: gilroy SemiBold;
+    color: #FFC003;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.viewbtn:hover{
+    background-color: #FFC003;
+    color: white;
+}
+
+
+.createbtn{
+    width: 80%;
+    min-height:5vmax;
+    padding: 1vmax;
+    font-size: 25px;
+    font-family: gilroy SemiBold;
+    color:white;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.createbtn:hover{
+    background-color: white;
+    color: black;
+}
+
+.createbtn>i:hover{
+    background-color: white;
+    color: black;
+}
